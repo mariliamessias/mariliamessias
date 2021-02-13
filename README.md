@@ -26,7 +26,7 @@ Meu nome é Marília, atualmente trabalho com desenvolvimento Backend, mas gosto
 
 <hr/>
 
-   <h1 align="center">:computer:	Quer aprender a programar? :computer:	</h1>
+   <h1 align="center">:computer: Hey Girl, quer aprender a programar? :computer:	</h1>
 
    
    <p align="center">
