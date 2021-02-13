@@ -27,10 +27,12 @@ Meu nome é Marília, atualmente trabalho com desenvolvimento Backend, mas gosto
  <br/>
   <br/>
    <br/>
+   
+![logo image](./trailstart.svg?raw=true "Title")
+
  <p align="center">
 Já que você passou por aqui, além de dar aquela olhada bonita e bem feita no que venho desenvolvendo nos últimos tempos, que tal dar uma passada no site que eu desenvolvi para ajudar mulheres a aprenderem programação por meio de trilhas?
 
-![logo image](./trailstart.svg?raw=true "Title")
 
 <a href="https://devas.herokuapp.com/">
 Saiba mais sobre o site!
