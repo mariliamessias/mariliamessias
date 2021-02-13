@@ -1,15 +1,13 @@
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariliamessias&layout=compact&count_private=true)
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
-==========================================================================================================================================
+<h1> Não repare a bagunça... </h1>
 
-
-My name is Marilia Aparecida Messias de Oliveira. I work as a Analista de Sistemas at Mercado Livre.
+Meu nome é Marília, atualmente trabalho com desenvolvimento Backend, mas gosto de estudar sobre FrontEnd e Mobile. Sou apaixonada por gatos e pela cultura Japonesa em geral. 
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mariliamessias&repo=mariliamessias&countColorcountColor)
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariliamessias&layout=compact&count_private=true)
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=mariliamessias&count_private=true&show_icons=true)
 
