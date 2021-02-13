@@ -30,6 +30,10 @@ Meu nome é Marília, atualmente trabalho com desenvolvimento Backend, mas gosto
   <br/>
    <br/>
    
+   
+   <h1 align="center">:computer:	Quer aprender a programar? :computer:	</h1>
+
+   
    <p align="center">
   <img src="./trailstart.svg" />
 </p>
