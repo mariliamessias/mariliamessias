@@ -25,9 +25,14 @@ Meu nome é Marília, atualmente trabalho com desenvolvimento Backend, mas gosto
  <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="max-width:100%;"></a></code>
 
  <br/>
+  <br/>
+   <br/>
  <p align="center">
 Já que você passou por aqui, além de dar aquela olhada bonita e bem feita no que venho desenvolvendo nos últimos tempos, que tal dar uma passada no site que eu desenvolvi para ajudar mulheres a aprenderem programação por meio de trilhas?
 
+<a href="https://devas.herokuapp.com/">
+Saiba mais sobre o site!
+</a>
 </p>
 
 
