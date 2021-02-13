@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/mariliamessias/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 </p>
-<h1 align="center"> Não repare a bagunça... </h1>
+<h1 align="center"> Olá, seja bem vindo(a)!</h1>
 <p align="center">
 Meu nome é Marília, atualmente trabalho com desenvolvimento Backend, mas gosto de estudar sobre FrontEnd e Mobile. Sou apaixonada por gatos e pela cultura Japonesa em geral. 
 </p>
