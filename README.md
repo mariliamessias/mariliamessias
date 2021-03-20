@@ -1,28 +1,27 @@
+<h2> Hello, welcome to my github page! <img src="https://25.media.tumblr.com/b832028c117cb548614cbea10f0153dc/tumblr_mudg73OFlK1rgpyeqo1_500.gif" width="50"></h2>
+
+<p>Hi, I'm Marília. I'm currently learning about backend and frontend development in general, like Java, React, MongoDB, MySQL, NodeJs and Kotlin. In my repositories you can see many projects about this technologies. I think mobile development is really cool and this will be my new topic of study, if you want share things with me on this subject, it would be really cool. </p> 
+
+<p>About me, I like to cook for my fiance and draw in my free time. I love animes and all about Japanese culture.</p>
+
+[![Linkedin: mariliamessias](https://img.shields.io/badge/-mariliamessias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariliamessias/)](https://www.linkedin.com/in/mariliamessias/)
+[![GitHub Marilia](https://img.shields.io/github/followers/mariliamessias?label=follow&style=social)](https://github.com/mariliamessias)
 
 
-![](https://komarev.com/ghpvc/?username=mariliamessias)
-<br/>
-<p align="center">
-<a href="https://www.linkedin.com/in/mariliamessias/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-</p>
-<h1 align="center">:smiley_cat:	 Olá, seja bem vindo(a)! :smiley_cat:	</h1>
-<p align="center">
-Meu nome é Marília, atualmente trabalho com desenvolvimento Backend, mas gosto de estudar sobre FrontEnd e Mobile. Sou apaixonada por gatos e pela cultura Japonesa em geral. 
-</p>
+### A little more about me...  
 
-<p align="center"> <strong>Linguagens e Ferramentas:</strong></p>
-<p align="center">
- <code> 
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;"></a></code> 
-<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width:100%;"></a></code> 
- <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;"></a></code> 
- <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;"></a></code>
- <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;"></a></code>
-  <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" style="max-width:100%;"></a></code>
- <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="max-width:100%;"></a></code>
- <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="max-width:100%;"></a></code>
- <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width:100%;"></a></code>
- <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="max-width:100%;"></a></code>
+```javascript
+const mariliamessias = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Kotlin, Android, Java],
+  tools: [React, Redux, Node, Styled-Components],
+  architecture: ["microservices"],
+  techCommunities: {
+                        coorganizer: "Devas",
+                        teacher: "{Reprograma}"
+                      },
+ loves: "cats"
+}
+```
 
-
-
+---
